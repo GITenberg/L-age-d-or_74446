@@ -1,5 +1,8 @@
 _repo: L-age-d-or_74446
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74446-h/images/cover.jpg
 creator:
   author:
     agent_name: Jaloux, Edmond
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1594
     wikipedia: https://fr.wikipedia.org/wiki/Edmond_Jaloux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74446#L-age-d-or
 gutenberg_issued: '2024-09-19'
 gutenberg_type: Text
 identifiers:
